@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c35fd17d-6e4b-476f-baee-aa9e07251d91" name="Default Changelist" comment="Added Heat Map" />
+    <list default="true" id="c35fd17d-6e4b-476f-baee-aa9e07251d91" name="Default Changelist" comment="Added Heat Map">
+      <change beforePath="$PROJECT_DIR$/codeforces/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
