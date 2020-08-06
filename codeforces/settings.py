@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'c$zdy*-7-=^i0nepo20grk*=acz8$p_5zw@dxryv69rk1-_=yq'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mcduccodeforcescrawler.herokuapp.com','127.0.0.1']
 
 
 # Application definition
