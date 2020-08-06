@@ -1,0 +1,10 @@
+{% extends "homepage/index.html" %}
+{% block content %}
+<div class="col-lg-6 col-md-7 col-sm-8">
+    <div class="banner-content">
+        <h1>You are here to stalk {{ handle }}</h1>
+        <a href="/submission_statistics/{{ handle }}" >click here</a> to view submission-statistics<br>
+        <a href="/contest_statistics/{{ handle }}" >click here</a> to view contest-statistics
+    </div>
+</div>
+{% endblock content %}
